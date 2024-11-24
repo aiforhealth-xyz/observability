@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "observability"
+  site-url: "https://aiforhealth-xyz.github.io/observability"
+  description: "The official newsletter from AI for Health."
+  repo-branch: main
+  repo-url: "https://github.com/aiforhealth-xyz/observability"
